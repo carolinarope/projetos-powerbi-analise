@@ -1,0 +1,11 @@
+Data,Cliente,Produto,Categoria,Canal,Quantidade,Preco_Unitario,Valor_Total,Estado
+01/08/2026,Ana Silva,Notebook Gamer,Eletronicos,Site,1,4500.00,4500.00,SP
+01/08/2026,Carlos Souza,Mouse Sem Fio,Acessarios,Loja Fisica,2,80.00,160.00,RJ
+02/08/2026,Mariana Santos,Cadeira Ergonomica,Moveis,Site,1,1200.00,1200.00,MG
+02/08/2026,Fernanda Lima,Teclado Mecanico,Acessarios,Site,1,350.00,350.00,SP
+03/08/2026,Roberto Alves,Monitor 27 Pol,Eletronicos,Loja Fisica,1,1400.00,1400.00,PR
+03/08/2026,Camila Oliveira,Fone de Ouvido,Acessarios,Site,3,150.00,450.00,SC
+04/08/2026,Lucas Pereira,Mesa para Escritorio,Moveis,Site,1,850.00,850.00,SP
+04/08/2026,Juliana Costa,Notebook Gamer,Eletronicos,Loja Fisica,1,4500.00,4500.00,RS
+05/08/2026,Gabriel Rocha,Webcam Full HD,Acessarios,Site,2,220.00,440.00,RJ
+05/08/2026,Patricia Ribeiro,Cadeira Ergonomica,Moveis,Loja Fisica,2,1200.00,2400.00,MG
