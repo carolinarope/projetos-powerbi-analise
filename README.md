@@ -1,23 +1,28 @@
-# Dashboards e Análise de Dados com Power BI
+# Projetos de Análise de Dados com Power BI
 
-Repositório dedicado à prática semanal de Business Intelligence, focado na extração, tratamento de dados (Power Query) e visualização (DAX).  
-Simula demandas reais de relatórios gerenciais e financeiros para tomada de decisão em negócios.
+Repositório de projetos práticos desenvolvidos com Power BI para
+tratamento, análise e visualização de dados.
 
-## Estrutura do Projeto
+## 🛠️ Tecnologias
 
-- **01-basico/** — Importação de CSV, Power Query básico, Gráficos padrão (Agosto)
-- **02-intermediario/** — Múltiplas tabelas, Relacionamentos, Filtros e Medidas DAX simples (Setembro)
-- **03-avancado/** — DAX avançado, Funções de Tempo (Time Intelligence), Storytelling com Dados (Outubro)
+- Power BI
+- Power Query
+- DAX
+- CSV
+- Modelagem de dados
 
-## Cronograma de Estudos (Quartas-feiras)
+## 📊 Etapas praticadas
 
-Cada prática semanal consiste na importação de um dataset, tratamento de anomalias e criação de um painel interativo respondendo a perguntas de negócio.
+Dados brutos → tratamento → modelagem → medidas DAX → visualização →
+análise de indicadores.
 
-- **Agosto:** 4 Dashboards (Gráficos fundamentais e formatação)
-- **Setembro:** 4 Dashboards (Modelagem de dados e DAX básico)
-- **Outubro:** 4 Dashboards (Métricas avançadas e design profissional)
+## 🎯 Objetivo
 
-**Total: 12 Dashboards documentados**
+Desenvolver habilidades complementares de análise de dados e visualização,
+fortalecendo minha capacidade de compreender dados e regras de negócio.
 
-## Objetivo
-Criar um portfólio visual e analítico que demonstre domínio no ciclo completo do dado: desde a base bruta até a apresentação final para stakeholders.
+## 📌 Relação com meu objetivo profissional
+
+Embora meu foco profissional seja Desenvolvimento Backend com Python,
+o conhecimento em dados, SQL e regras de negócio complementa minha
+formação em tecnologia.
