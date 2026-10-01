@@ -1,28 +1,29 @@
-# Projetos de Análise de Dados com Power BI
+# Projetos de Análise e Visualização de Dados
 
-Repositório de projetos práticos desenvolvidos com Power BI para
-tratamento, análise e visualização de dados.
+Repositório que reúne projetos desenvolvidos durante uma etapa anterior dos meus estudos em tecnologia, com foco em exploração, tratamento, análise e visualização de dados.
 
-## 🛠️ Tecnologias
+Esses projetos fazem parte da minha trajetória de aprendizagem e permanecem como evidência de prática com dados, indicadores e regras de negócio. Atualmente, meu direcionamento profissional está em desenvolvimento de software.
+
+## Tecnologias utilizadas
 
 - Power BI
 - Power Query
 - DAX
 - CSV
-- Modelagem de dados
+- Modelagem e preparação de dados
 
-## 📊 Etapas praticadas
+## Etapas praticadas
 
-Dados brutos → tratamento → modelagem → medidas DAX → visualização →
-análise de indicadores.
+1. Leitura e exploração dos dados.
+2. Tratamento e transformação com Power Query.
+3. Organização e modelagem dos dados.
+4. Criação de medidas com DAX.
+5. Construção de visualizações e indicadores.
 
-## 🎯 Objetivo
+## Competências complementares
 
-Desenvolver habilidades complementares de análise de dados e visualização,
-fortalecendo minha capacidade de compreender dados e regras de negócio.
+A experiência com dados contribuiu para praticar raciocínio analítico, atenção à qualidade das informações e interpretação de indicadores — conhecimentos que também são úteis ao compreender requisitos e regras de negócio em aplicações.
 
-## 📌 Relação com meu objetivo profissional
+## Escopo
 
-Embora meu foco profissional seja Desenvolvimento Backend com Python,
-o conhecimento em dados, SQL e regras de negócio complementa minha
-formação em tecnologia.
+Consulte cada projeto para conhecer sua fonte de dados, medidas, decisões de modelagem e resultados. Este repositório documenta projetos de estudo, não experiência profissional em análise de dados.
